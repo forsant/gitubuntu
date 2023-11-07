@@ -3,6 +3,7 @@
 <br>
 
 <?php
+echo "git";
 echo "<h3><b>Exercice 9</b></h3>";
 echo "<b>1.Se connecter à la base de donnée casse2<br/><br/></b>";
 echo '<img src="images/connexion-base-casse2.png"><br/><br/>';
